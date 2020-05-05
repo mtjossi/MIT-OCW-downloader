@@ -18,10 +18,17 @@ Input 2: Location where you want to move the folder to.
 
 Find courses at: https://ocw.mit.edu/courses/find-by-number/
 
+Happy learning!!
+
 
 
 
 # Additional Details
+
+Required libraries:
+>bs4, requests, re, time, os, urllib, shutil, random, wget, pandas, tqdm
+
+
 ## get_links.py
 
 >get_prereq(link_list):
